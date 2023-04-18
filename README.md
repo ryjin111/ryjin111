@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://i.imgur.com/p0ecgZK.gif" alt="Snake animation" />
+<img src="/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
