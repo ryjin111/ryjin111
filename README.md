@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ryjin111/ryjin111/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://i.imgur.com/p0ecgZK.gif" alt="Snake animation" />
 
 ###
 
