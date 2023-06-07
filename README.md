@@ -2,7 +2,7 @@
 
 ###
 
-https://github-stats-alpha.vercel.app/api?username={ryjin111}
+https://github-stats-alpha.vercel.app/api?username=ryjin111
 
 ###
 
