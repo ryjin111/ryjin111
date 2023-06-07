@@ -2,8 +2,7 @@
 
 ###
 
-<div align="center">https://github-stats-alpha.vercel.app/api?username=ryjin111
-</div>
+https://github-stats-alpha.vercel.app/api?username={ryjin111}
 
 ###
 
