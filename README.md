@@ -3,8 +3,9 @@
 ###
 
 ![ryjin111's Stats](https://github-readme-stats.vercel.app/api?username=ryjin111&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ryjin111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryjin111&theme=tokyonight&hide_border=true)
 ![ryjin111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryjin111&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![ryjin111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryjin111&theme=tokyonight&hide_border=true)
+
 
 ###
 
