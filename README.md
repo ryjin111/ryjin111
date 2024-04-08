@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm currently focusing on Forking stuff and exploring new knowledge and skill to increase my productivity on developing<br><br>CV: https://clintryanjaocv.vercel.app/</p>
+<p align="left">I'm currently focusing on Forking stuff and exploring new knowledge and skill to increase my productivity on developing/</p>
 
 
 ###
