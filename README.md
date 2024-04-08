@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clint Ryan and I'm a Freelance Dev and Guild Founder from Philippines</h2>
+<h2 align="left">Hi 👋! My name is Clint Ryan and I'm a Freelance Dev and Guild Founder</h2>
 
 ###
 
