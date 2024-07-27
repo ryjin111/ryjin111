@@ -40,12 +40,12 @@
 
 ###
 
-<p align="left">I'm currently focusing on Forking stuff and exploring new knowledge and skill to increase my productivity on developing/</p>
+<p align="left">I'm currently focusing on being an pixel NFT artist and exploring new knowledge and skill to increase my productivity/</p>
 
 
 ###
 
-<p align="left">Hi, my name is Clint Ryan Jao, but you can call me Clint. I'm a highly motivated and hardworking individual with a knack for problem-solving and a passion for marketing planning. I am always looking for new and innovative ways to help drive project success, and I am experienced in sharing and demonstrating initiatives to achieve that goal.<br>I am flexible with my working hours and am confident in my ability to handle any pressure, even on high workloads. Additionally, I am skilled at maintaining friendly and effective communication with people, including those who may be challenging or difficult to interact with.<br>My interest in cryptocurrency began in late 2016, and since January 2017, I have dedicated my time and efforts to developing my knowledge and experience in this exciting and ever-evolving industry. I have experience creating whitepapers, and pitch decks, and collaborating with projects and investors, and have also served as a community and bounty manager, as well as a moderator.<br>Furthermore, I am also a venturing freelance developer, in creating telegram bots and forking projects, such as AMM and NFT projects. Overall, I am a well-rounded and versatile professional eager to take on new challenges and make meaningful contributions to any team or project.</p>
+<p align="left">Hi, my name is Clint Ryan Jao, but you can call me Clint.</p>
 
 ###
 
