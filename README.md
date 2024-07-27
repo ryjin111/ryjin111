@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clint Ryan and I'm a Freelance Dev and Guild Founder</h2>
+<h2 align="left">Hi 👋! My name is Clint Ryan</h2>
 
 ###
 
@@ -42,10 +42,6 @@
 
 <p align="left">I'm currently focusing on being an pixel NFT artist and exploring new knowledge and skill to increase my productivity/</p>
 
-
-###
-
-<p align="left">Hi, my name is Clint Ryan Jao, but you can call me Clint.</p>
 
 ###
 
